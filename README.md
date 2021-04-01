@@ -7,4 +7,5 @@ Current problems:
 * Slow framerate
 * Cube rotation seems to gradually accelerate
 
+Video (click me):
 [![Alt text](https://img.youtube.com/vi/Dh-EDfVDeks/0.jpg)](https://www.youtube.com/watch?v=Dh-EDfVDeks)
